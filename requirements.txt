@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+openpyxl
+flask
+matplotlib
+seaborn
+lxml
+
+
